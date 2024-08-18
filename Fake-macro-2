@@ -1,0 +1,10 @@
+local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
+local Notify = AkaliNotif.Notify;
+Notify({
+Description = "Subscribe to Envixity Scripts on YouTube";
+Title = "_Envixity#8725 On Discord";
+Duration = 15;
+});
+getgenv().Speed = true
+getgenv().FakeMacro = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/nukermode/main/Kit%20tools.txt"))()
